@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0dn3ys&show_icons=true&theme=radical)
 
 <!--
 **R0dn3yS/R0dn3yS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
