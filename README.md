@@ -19,7 +19,7 @@ const Rodney = {
     "os": ["Arch Linux"],
     "editor": ["Visual Studio Code", "Visual Studio", "IntelliJ", "micro"]
     "education": ["Cyber Security"],
-    "likes": ["Coding", "Anime", "Hacking", Linux", "Cubing"]
+    "likes": ["Coding", "Anime", "Hacking", "Linux", "Cubing"]
 }
 ```
 
