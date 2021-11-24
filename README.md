@@ -4,7 +4,7 @@
 
 ## I'm a Cyber Security Expert
 
-- 👨‍💻 I’m currently working at Access42.
+- 👨‍💻 I’m currently looking for work.
 - 📚 I’m currently learning Java.
 - 💪🏼 Future Goals: Learn and certify for OSCP.
 - ⚡ Fun fact: I'm a speedcuber.
