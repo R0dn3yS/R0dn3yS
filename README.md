@@ -4,8 +4,8 @@
 
 ## I'm a Cyber Security Expert
 
-- 👨‍💻 I’m currently looking for work.
-- 📚 I’m currently learning Java.
+- 👨‍💻 I’m currently working for Pearsson Vue.
+- 📚 I’m currently learning Rust.
 - 💪🏼 Future Goals: Learn and certify for OSCP.
 - ⚡ Fun fact: I'm a speedcuber.
 
