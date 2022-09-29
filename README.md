@@ -35,7 +35,7 @@ export const contact = {
 ## My Setup
 ```typescript
 export const setup = {
-  cpu: 'AMD Ryzen 3 3100',
+  cpu: 'AMD Ryzen 5 5600',
   gpu: 'MSI GTX 1080 Gaming X',
   mobo: 'Asrock B450 Steel Legend',
   ram: '32GB Trident Z Neo',
