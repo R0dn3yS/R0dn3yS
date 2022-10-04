@@ -2,7 +2,7 @@
 
 ## Weeb, Gamer, and TypeScript dev.
 
-<img src="./resources/banner.gif" width="40%"/>
+<img src="./resources/banner.gif" width="40%" />
 
 <br>
 
@@ -36,7 +36,7 @@ export const contact = {
 ```typescript
 export const setup = {
   cpu: 'AMD Ryzen 5 5600',
-  gpu: 'MSI GTX 1080 Gaming X',
+  gpu: 'MSI Radeon RX 5700 Mech OC',
   mobo: 'Asrock B450 Steel Legend',
   ram: '32GB Trident Z Neo',
   os: 'Arch Linux',
