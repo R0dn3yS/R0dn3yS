@@ -1,12 +1,12 @@
 # Rodney (R0dn3yS) van den Velden
 
-## Weeb, Gamer, and TypeScript dev.
+## Weeb, Gamer, and Rust/TypeScript dev.
 
 <img src="./resources/banner.gif" width="40%" />
 
 <br>
 
-Certified Cyber Security Expert that codes in TypeScript.
+Student Software Developer and self taught developer.
 
 <br>
 
@@ -15,7 +15,7 @@ Certified Cyber Security Expert that codes in TypeScript.
 export const rodney = {
   age: 19,
   country: 'Netherlands',
-  languages: ['TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust'],
+  languages: ['TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java'],
   os: 'Arch Linux',
 };
 ```
