@@ -2,7 +2,7 @@
 
 ## Weeb, Gamer, and Rust/TypeScript dev.
 
-<img src="./resources/banner.gif" width="40%" />
+<img src="./resources/banner.gif" width="60%" />
 
 <br>
 
