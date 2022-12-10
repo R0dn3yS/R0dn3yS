@@ -2,7 +2,7 @@
 
 ## Weeb, Gamer, and Rust/TypeScript dev.
 
-<img src="./resources/banner.gif" width="60%" />
+<img src="./resources/kobeni.png" width="45%" />
 
 <br>
 
@@ -40,7 +40,7 @@ export const setup = {
   mobo: 'Asrock B450 Steel Legend',
   ram: '32GB Trident Z Neo',
   os: 'Arch Linux',
-}
+};
 ```
 
 <br>
