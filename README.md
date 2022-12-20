@@ -10,6 +10,10 @@ Student Software Developer and self taught developer.
 
 <br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/325254775828512778?borderRadius=15px&bg=002f50)](https://discord.com/users/325254775828512778)
+
+<br>
+
 ## About Me 
 ```typescript
 export const rodney = {
