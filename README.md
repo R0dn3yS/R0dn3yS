@@ -2,7 +2,7 @@
 
 ## Weeb, Gamer, and Rust/TypeScript dev.
 
-<img src="./resources/kobeni.png" width="45%" />
+<img src="./resources/bocchi.jpg" width="60%" />
 
 <br>
 
