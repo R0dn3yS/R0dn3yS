@@ -17,7 +17,7 @@ Student Software Developer and self taught developer.
 ## About Me 
 ```typescript
 export const rodney = {
-  age: 19,
+  age: 20,
   country: 'Netherlands',
   languages: ['TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java'],
   os: 'Arch Linux',
