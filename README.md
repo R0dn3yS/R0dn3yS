@@ -2,7 +2,7 @@
 
 ## Weeb, Gamer, and Rust/TypeScript dev.
 
-<img src="./resources/bocchi.jpg" width="60%" />
+<img src="./resources/zero.png" width="60%" />
 
 <br>
 
@@ -19,7 +19,7 @@ Student Software Developer and self taught developer.
 export const rodney = {
   age: 20,
   country: 'Netherlands',
-  languages: ['TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java'],
+  languages: [ 'TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java' ],
   os: 'Arch Linux',
 };
 ```
