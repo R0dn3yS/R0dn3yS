@@ -11,12 +11,12 @@ Student Software Developer and self taught developer.
 <br>
 
 ## About Me 
-```typescript
+```typescript 
 export const rodney = {
-  age: 20,
+  age: 21,
   country: 'Netherlands',
   languages: [ 'TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java' ],
-  os: 'Arch Linux',
+  os: 'NixOS',
 };
 ```
 
@@ -49,5 +49,3 @@ export const setup = {
 [![R0dn3yS GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=R0dn3yS&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/R0dn3yS)
 <br>
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=R0dn3yS&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/R0dn3yS)
-
-test
