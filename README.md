@@ -2,13 +2,9 @@
 
 ## Weeb, Gamer, and Rust/TypeScript dev.
 
-<img src="./resources/zero.png" width="60%" />
+<img src="./resources/beako.png" width="40%" />
 
-<br>
-
-Student Software Developer and self taught developer.
-
-<br>
+<br><br>
 
 ## About Me 
 ```typescript 
@@ -16,7 +12,7 @@ export const rodney = {
   age: 21,
   country: 'Netherlands',
   languages: [ 'TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java' ],
-  os: 'NixOS',
+  os: 'Arch Linux',
 };
 ```
 
