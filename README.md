@@ -9,7 +9,7 @@
 ## About Me 
 ```typescript 
 export const rodney = {
-  age: 21,
+  age: 22,
   country: 'Netherlands',
   languages: [ 'TypeScript', 'JavaScript', 'Python', 'Bash', 'Rust', 'Java' ],
   os: 'Arch Linux',
