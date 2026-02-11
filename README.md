@@ -43,9 +43,5 @@ export const setup = {
 
 ## Github Stats
 
-<a href="https://github.com/R0dn3yS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=R0dn3yS&count_private=true&theme=midnight-purple" />
-</a>
-<a href="https://github.com/R0dn3yS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0dn3yS&count_private=true&theme=midnight-purple&layout=compact" />
-</a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
